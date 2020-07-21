@@ -1,4 +1,14 @@
 {
+  "amenity/bank|Bank of Hawaii": {
+    "locationSet": {"include": ["US"]},,
+    "tags": {
+      "amenity": "bank",
+      "brand": "Bank of Hawaii",
+      "brand:wikidata": "Q4856124",
+      "brand:wikipedia": "en:Bank of Hawaii",
+      "name": "Bank of Hawaii",
+    }
+{
   "amenity/bank|ABANCA": {
     "locationSet": {"include": ["es"]},
     "tags": {
